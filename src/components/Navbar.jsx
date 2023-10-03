@@ -35,8 +35,7 @@ export default function Navbar() {
         <a href="#about" onClick={() => scrollToAnchor("#about")}>
           About
         </a>
-        <a href="#products" onClick={() => scrollToAnchor("#products")}>Products</a>
-        <a href="">Insights</a>
+        <a href="#insights" onClick={() => scrollToAnchor("#insights")}>Insights</a>
       </nav>
     </header>
   );

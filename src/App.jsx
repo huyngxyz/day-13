@@ -24,7 +24,7 @@ export default function App() {
       </Section>
 
       <Section theme="dark" setTheme={setTheme}>
-        <div id="products" className="h-full flex flex-col justify-center items-start  w-full py-20 ">
+        <div id="insights" className="h-full flex flex-col justify-center items-start  w-full py-20 ">
           <div className="w-[50%] mx-auto">
             <img
               className="mb-10 rounded-md "
