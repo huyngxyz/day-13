@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-bg: 245 240 230;
+    --color-content: 15 9 4;
+  }
+  * {
+    /* border: 1px solid red; */
+  }
+}
